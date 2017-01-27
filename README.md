@@ -61,3 +61,4 @@ Name | Repository | License
 Name | Repository | License
 ---- | ---------- | ------
 [angular2](https://pub.dartlang.org/packages/angular2) | https://github.com/dart-lang/angular2 | [MIT](https://github.com/dart-lang/angular2/blob/master/LICENSE)
+[over_react](https://pub.dartlang.org/packages/over_react) | https://github.com/Workiva/over_react | [Apache](https://github.com/Workiva/over_react/blob/master/LICENSE)
