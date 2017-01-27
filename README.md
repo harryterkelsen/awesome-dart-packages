@@ -68,6 +68,12 @@ Name | Repository | License
 [mockito](https://pub.dartlang.org/packages/mockito) | https://github.com/dart-lang/mockito | [Apache](https://github.com/dart-lang/mockito/blob/master/LICENSE)
 [test](https://pub.dartlang.org/packages/test) | https://github.com/dart-lang/test | [BSD](https://github.com/dart-lang/test/blob/master/LICENSE)
 
+## Utilities
+
+Name | Repository | License
+---- | ---------- | ------
+[quiver](https://pub.dartlang.org/packages/quiver) | https://github.com/google/quiver-dart | [Apache](https://github.com/google/quiver-dart/blob/master/LICENSE)
+
 ## Web
 
 Name | Repository | License
