@@ -13,15 +13,24 @@ Name | Repository | License
 [async](https://pub.dartlang.org/packages/async) | https://github.com/dart-lang/async | [BSD](https://github.com/dart-lang/async/blob/master/LICENSE)
 [collection](https://pub.dartlang.org/packages/collection) | https://github.com/dart-lang/collection | [BSD](https://github.com/dart-lang/collection/blob/master/LICENSE)
 [convert](https://pub.dartlang.org/packages/convert) | https://github.com/dart-lang/convert | [BSD](https://github.com/dart-lang/convert/blob/master/LICENSE)
+[isolate](https://pub.dartlang.org/packages/isolate) | https://github.com/dart-lang/isolate | [BSD](https://github.com/dart-lang/isolate/blob/master/LICENSE)
 [typed_data](https://pub.dartlang.org/packages/typed_data) | https://github.com/dart-lang/typed_data | [BSD](https://github.com/dart-lang/typed_data/blob/master/LICENSE)
 
 ### Index
 
+* [Async Programming](#async)
 * [Code Generation](#codegen)
 * [Encoding & Serialization](#encoding)
 * [Networking](#networking)
 * [Testing](#testing)
 * [Web](#web)
+
+## Async Programming
+
+Name | Repository | License
+---- | ---------- | ------
+[pool](https://pub.dartlang.org/packages/pool) | https://github.com/dart-lang/pool | [BSD](https://github.com/dart-lang/pool/blob/master/LICENSE)
+[stream_channel](https://pub.dartlang.org/packages/stream_channel) | https://github.com/dart-lang/stream_channel | [BSD](https://github.com/dart-lang/stream_channel/blob/master/LICENSE)
 
 ## Code Generation
 
@@ -36,6 +45,8 @@ Name | Repository | License
 Name | Repository | License
 ---- | ---------- | ------
 [built_value](https://pub.dartlang.org/packages/built_value) | https://github.com/google/built_value.dart | [BSD](https://github.com/google/built_value.dart/blob/master/LICENSE)
+[markdown](https://pub.dartlang.org/packages/markdown) | https://github.com/dart-lang/markdown | [BSD](https://github.com/dart-lang/markdown/blob/master/LICENSE)
+[yaml](https://pub.dartlang.org/packages/yaml) | https://github.com/dart-lang/yaml | [BSD](https://github.com/dart-lang/yaml/blob/master/LICENSE)
 
 ## Mobile
 
@@ -54,6 +65,7 @@ Name | Repository | License
 Name | Repository | License
 ---- | ---------- | ------
 [matcher](https://pub.dartlang.org/packages/matcher) | https://github.com/dart-lang/matcher | [BSD](https://github.com/dart-lang/matcher/blob/master/LICENSE)
+[mockito](https://pub.dartlang.org/packages/mockito) | https://github.com/dart-lang/mockito | [Apache](https://github.com/dart-lang/mockito/blob/master/LICENSE)
 [test](https://pub.dartlang.org/packages/test) | https://github.com/dart-lang/test | [BSD](https://github.com/dart-lang/test/blob/master/LICENSE)
 
 ## Web
