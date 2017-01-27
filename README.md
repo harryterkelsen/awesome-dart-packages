@@ -23,6 +23,7 @@ Name | Repository | License
 * [Encoding & Serialization](#encoding)
 * [Networking](#networking)
 * [Testing](#testing)
+* [Utilities](#utilities)
 * [Web](#web)
 
 ## Async Programming
